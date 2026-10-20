@@ -20,16 +20,6 @@ I previously built a telemetry system that monitors and draws analytics for mill
 
 ---
 
-### Best Practices
-- Be candid and stand up for your ideas.
-- Don't take professional feedback personally.
-- Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
-- Don't join a meeting that has no agenda.
-- Don't sit in a meeting where you have nothing to contribute or to learn.
-- Leave it better than you found it.
-
----
-
 ### Featured Projects
 
 <p align="center">
@@ -67,6 +57,16 @@ I previously built a telemetry system that monitors and draws analytics for mill
     <img src="https://images.credly.com/size/440x440/images/24d60c97-b01f-4031-9fe3-5f092daa4ab7/image.png" width="150" alt="SAP Security Champion" />
   </a>
 </p>
+
+---
+
+### Best Practices
+- Be candid and stand up for your ideas.
+- Don't take professional feedback personally.
+- Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
+- Don't join a meeting that has no agenda.
+- Don't sit in a meeting where you have nothing to contribute or to learn.
+- Leave it better than you found it.
 
 ---
 
