@@ -16,7 +16,7 @@ I'm a software engineer focused on cloud infrastructure and security. Currently 
 
 My background spans platform security at SAP and high-throughput microservices. I'm happiest close to the infrastructure: Kubernetes, GitOps, and event-driven architectures.
 
-I previously built a telemetry system that monitors and draws analytics for millions of vehicles across Europe.
+I previously built a telemetry system for an automotive client that monitors and draws analytics for millions of vehicles across Europe.
 
 ---
 
