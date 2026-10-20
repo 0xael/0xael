@@ -60,6 +60,20 @@ I previously built a telemetry system that monitors and draws analytics for mill
 
 ---
 
+## Books & Reads
+Books and articles I've read and can recommend. If you have suggestions, please reach out — always happy to pick up a gem I haven't noticed yet!
+
+- [The Software Engineer's Guidebook](https://www.engguidebook.com/?ref=blog.pragmaticengineer.com) by Gergely Orosz.
+- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) by Robert C. Martin.
+- [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons-book/) by Yuval Noah Harari.
+- [No Rules Rules](https://www.norulesrules.com/) by Reed Hastings & Erin Meyer.
+- [Surrounded by Idiots](https://en.wikipedia.org/wiki/Surrounded_by_Idiots) by Thomas Erikson.
+- [Lift Off](https://en.wikipedia.org/wiki/Liftoff:_Elon_Musk_and_the_Desperate_Early_Days_That_Launched_SpaceX) by Eric Berger.
+- [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog) by Phil Knight.
+- [Algorithms to Live By](https://en.wikipedia.org/wiki/Algorithms_to_Live_By) by Brian Christian & Tom Griffiths.
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/0xael_"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
