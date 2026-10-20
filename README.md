@@ -20,6 +20,16 @@ I previously built a telemetry system that monitors and draws analytics for mill
 
 ---
 
+### Best Practices
+- Be candid and stand up for your ideas.
+- Don't take professional feedback personally.
+- Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
+- Don't join a meeting that has no agenda.
+- Don't sit in a meeting where you have nothing to contribute or to learn.
+- Leave it better than you found it.
+
+---
+
 ### Featured Projects
 
 <p align="center">
@@ -60,7 +70,7 @@ I previously built a telemetry system that monitors and draws analytics for mill
 
 ---
 
-## Books & Reads
+### Books & Reads
 Books and articles I've read and can recommend. If you have suggestions, please reach out — always happy to pick up a gem I haven't noticed yet!
 
 - [The Software Engineer's Guidebook](https://www.engguidebook.com/?ref=blog.pragmaticengineer.com) by Gergely Orosz.
@@ -71,16 +81,6 @@ Books and articles I've read and can recommend. If you have suggestions, please 
 - [Lift Off](https://en.wikipedia.org/wiki/Liftoff:_Elon_Musk_and_the_Desperate_Early_Days_That_Launched_SpaceX) by Eric Berger.
 - [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog) by Phil Knight.
 - [Algorithms to Live By](https://en.wikipedia.org/wiki/Algorithms_to_Live_By) by Brian Christian & Tom Griffiths.
-
----
-
-## Best Practices
-- Be candid and stand up for your ideas.
-- Don't take professional feedback personally.
-- Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
-- Don't join a meeting that has no agenda.
-- Don't sit in a meeting where you have nothing to contribute or to learn.
-- Leave it better than you found it.
 
 ---
 
