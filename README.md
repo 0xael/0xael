@@ -74,6 +74,16 @@ Books and articles I've read and can recommend. If you have suggestions, please 
 
 ---
 
+## Best Practices
+- Be candid and stand up for your ideas.
+- Don't take professional feedback personally.
+- Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
+- Don't join a meeting that has no agenda.
+- Don't sit in a meeting where you have nothing to contribute or to learn.
+- Leave it better than you found it.
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/alyelalwany"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/0xael_"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
