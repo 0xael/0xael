@@ -20,19 +20,6 @@ I previously built a telemetry system for an automotive client that monitors and
 
 ---
 
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/0xael/medimap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xael&repo=medimap&theme=github_dark&hide_border=true&border_radius=12" alt="medimap" /></a>
-  <a href="https://github.com/0xael/agency"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xael&repo=agency&theme=github_dark&hide_border=true&border_radius=12" alt="agency" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/0xael/hireme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xael&repo=hireme&theme=github_dark&hide_border=true&border_radius=12" alt="hireme" /></a>
-  <a href="https://github.com/0xael/gmail-cleaner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xael&repo=gmail-cleaner&theme=github_dark&hide_border=true&border_radius=12" alt="gmail-cleaner" /></a>
-</p>
-
----
-
 ### GitHub Stats
 
 <p align="center">
