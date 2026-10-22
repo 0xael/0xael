@@ -20,6 +20,7 @@ I previously built a telemetry system for an automotive client that monitors and
 
 ---
 
+<!--
 ### GitHub Stats
 
 <p align="center">
@@ -28,6 +29,7 @@ I previously built a telemetry system for an automotive client that monitors and
 </p>
 
 ---
+-->
 
 ### Certifications & Badges
 
