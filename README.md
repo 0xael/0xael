@@ -61,9 +61,7 @@ I previously built a telemetry system for an automotive client that monitors and
 ---
 
 ### Community Work
-- Contributing to [crossplane-provider-btp](https://github.com/SAP/crossplane-provider-btp) — the Crossplane provider for SAP BTP.
-- Contributing to [crossplane-provider-hana](https://github.com/SAP/crossplane-provider-hana) — the Crossplane provider for SAP HANA.
-- Contributing to [crossplane-provider-docs](https://github.com/SAP/crossplane-provider-docs) — unified documentation for SAP Crossplane providers.
+- Contributing to SAP's [Crossplane Providers](https://sap.github.io/crossplane-provider-docs/).
 
 ---
 
