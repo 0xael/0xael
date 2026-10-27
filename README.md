@@ -60,6 +60,11 @@ I previously built a telemetry system for an automotive client that monitors and
 
 ---
 
+### Community Work
+- Contributing to [crossplane-provider-btp](https://github.com/SAP/crossplane-provider-btp) — the Crossplane provider for SAP BTP.
+
+---
+
 ### Books & Reads
 Books and articles I've read and can recommend. If you have suggestions, please reach out — always happy to pick up a gem I haven't noticed yet!
 
