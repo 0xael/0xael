@@ -71,6 +71,7 @@ Books and articles I've read and can recommend. If you have suggestions, please 
 - [Lift Off](https://en.wikipedia.org/wiki/Liftoff:_Elon_Musk_and_the_Desperate_Early_Days_That_Launched_SpaceX) by Eric Berger.
 - [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog) by Phil Knight.
 - [Algorithms to Live By](https://en.wikipedia.org/wiki/Algorithms_to_Live_By) by Brian Christian & Tom Griffiths.
+- [The Culture Map](https://erinmeyer.com/books/the-culture-map/) by Erin Meyer.
 
 ---
 
