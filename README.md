@@ -49,7 +49,7 @@ I previously built a telemetry system for an automotive client that monitors and
 
 ---
 
-### Best Practices
+### Tips in Professional Life
 - Be candid and stand up for your ideas.
 - Don't take professional feedback personally.
 - Give and receive feedback often while utilizing the [4As of feedback](https://www.corporate-rebels.com/blog/feedback-at-netflix). 
