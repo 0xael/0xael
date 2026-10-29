@@ -64,6 +64,18 @@ I previously built a telemetry system for an automotive client that monitors and
 
 ---
 
+### AI Best Practices
+- Treat AI output as a first draft — always review, test, and validate before using.
+- Be specific and provide context in your prompts; vague inputs produce vague outputs.
+- Keep a human in the loop for decisions that carry risk or affect people.
+- Understand the limitations of the model you're using — don't assume it's always right.
+- Don't feed sensitive or proprietary data into tools you don't control.
+- Evaluate AI-generated code the same way you'd evaluate a colleague's pull request.
+- Use AI to augment your thinking, not replace it.
+- Leverage MCP (Model Context Protocol) servers to connect AI directly to your tools and data sources — less copy-pasting, faster access to the right information.
+
+---
+
 ### Books & Reads
 Books and articles I've read and can recommend. If you have suggestions, please reach out — always happy to pick up a gem I haven't noticed yet!
 
