@@ -8,6 +8,7 @@
   <a href="https://substack.com/@elalwany"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
 </p>
 
+
 ---
 
 ### About Me
