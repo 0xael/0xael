@@ -18,6 +18,7 @@ My background spans platform security at SAP and high-throughput microservices. 
 
 I previously built a telemetry system for an automotive client that monitors and draws analytics for millions of vehicles across Europe.
 
+
 ---
 
 <!--
