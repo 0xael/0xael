@@ -9,7 +9,6 @@
 
 ---
 
-
 ### About Me
 
 I'm a software engineer focused on cloud infrastructure and security. Currently I'm building SAP AI's infrastructure.
